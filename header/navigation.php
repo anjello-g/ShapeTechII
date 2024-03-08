@@ -20,8 +20,9 @@
     </div>
 
     <div class="container z-50 fixed justify-center">
-        <ul tabindex="0" class="p-1 shadow bg-base-100 rounded-box w-auto flex space-x-4 hidden md:flex ">
+        <ul tabindex="0" class="px-2 py-1 shadow bg-base-100 rounded-box w-auto flex space-x-1 hidden md:flex ">
             <li class="btn btn-ghost flex items-center">
+            
                 <a href="index.php" class="flex items-center">
                     <img src="images/house-solid.svg" class="h-5 w-5 mr-2">
                         <span>Home</span>
@@ -55,19 +56,3 @@
     </div>
 </div>
 
-<script>
-  // Check if dark mode is enabled
-  const darkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-  // Toggle visibility based on dark mode
-  const lightLogo = document.getElementById('lightLogo');
-  const darkLogo = document.getElementById('darkLogo');
-
-  if (darkMode) {
-    lightLogo.classList.add('hidden');
-    darkLogo.classList.remove('hidden');
-  } else {
-    lightLogo.classList.remove('hidden');
-    darkLogo.classList.add('hidden');
-  }
-</script>
