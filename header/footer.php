@@ -201,3 +201,20 @@ function type() {
 
 type();
 </script>
+
+
+<script>
+  let prevScrollPos = window.pageYOffset;
+
+  window.onscroll = function() {
+    const currentScrollPos = window.pageYOffset;
+
+    if (prevScrollPos > currentScrollPos) {
+      document.getElementById("scrollNavbar").style.transform = "translateY(0)";
+    } else {
+      document.getElementById("scrollNavbar").style.transform = "translateY(-100%)";
+    }
+
+    prevScrollPos = currentScrollPos;
+  };
+</script>

@@ -13,7 +13,7 @@
 <!--feedbacks-->
 <?php include 'sections/client-feedbacks.php'; ?>
 
-<!--feedbacks-->
+<!--contact-form-->
 <?php include 'sections/contact-us.php'; ?>
 
 <!--footer-->
