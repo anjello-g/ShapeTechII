@@ -1,8 +1,8 @@
-<div class="bg-white dark:text-black">
+<div class="bg-white dark:bg-gray-900/50 dark:text-white">
   <div class="mx-auto py-16  sm:px-6 lg:px-8">
     <div class="relative isolate overflow-hidden px-6 py-24 text-center sm:rounded-3xl sm:px-16 mt-5">
       <h2 id="typewriter" class="font-nudge-extrabold mx-auto max-w-2xl text-3xl font-bold uppercase tracking-wide sm:text-4xl"> </h2>
-      <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600">It's more than just tech. It's a partnership for innovation. Start yours today.</p>
+      <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600 dark:text-gray-400">It's more than just tech. It's a partnership for innovation. Start yours today.</p>
 
       <div class="mt-10 flex items-center justify-center gap-x-6">
         <button type="button" class="text-md relative inline-flex items-center gap-x-2 rounded-lg bg-green-500 px-6 py-4 font-semibold text-white shadow-sm hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-600">

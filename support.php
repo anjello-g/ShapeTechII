@@ -5,17 +5,15 @@
 <?php  $currentPage = 'index'; include 'header/navigation.php'; ?>
 
 <!--hero-->
-<?php include 'sections/index-hero.php'; ?>
-
-<!--pricing-->
-<?php include 'sections/pricing.php'; ?>
+<?php include 'sections/contact-hero.php'; ?>
 
 <!--feedbacks-->
-<?php include 'sections/client-feedbacks.php'; ?>
+<?php include 'sections/contact-form.php'; ?>
 
 <!--feedbacks-->
-<?php include 'sections/contact-us.php'; ?>
+<?php include 'sections/faq.php'; ?>
 
+<br/>
 <!--footer-->
 <?php include 'header/footer.php'; ?>
 
