@@ -1,6 +1,6 @@
 <?php include 'header/header.php'; ?>
 
-<body>
+<body >
 <!--nav-->
 <?php  $currentPage = 'index'; include 'header/navigation.php'; ?>
 

@@ -1,5 +1,6 @@
 <div class="bg-white dark:bg-gray-900/50 dark:text-white">
-  <div class="mx-auto py-16  sm:px-6 lg:px-8">
+
+  <div class="mx-auto pt-16  sm:px-6 lg:px-8">
     <div class="relative isolate overflow-hidden px-6 py-24 text-center sm:rounded-3xl sm:px-16 mt-5">
       <h2 id="typewriter" class="font-nudge-extrabold mx-auto max-w-2xl text-3xl font-bold uppercase tracking-wide sm:text-4xl"> </h2>
       <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600 dark:text-gray-400">It's more than just tech. It's a partnership for innovation. Start yours today.</p>
@@ -16,7 +17,7 @@
       
       <h1 class="font-bold italic text-green-500 mt-16 text-2xl">Join on our growing ecosystem</h1>
 
-<div class="flex max-w-md lg:max-w-none w-auto lg:w-75 flex-wrap items-center justify-center lg:justify-between px-5 mt-10">
+<div class="flex max-w-lg lg:max-w-none w-auto lg:w-100 flex-wrap items-center justify-center lg:justify-between px-5 mt-10">
 
     <div class="m-2 lg:mx-0 w-28 flex items-center justify-center">
         <img src="images/integr8.png" class="w-36">
