@@ -10,7 +10,7 @@
             <ul tabindex="0"
                 class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box dark:text-gray-200 dark:bg-gray-800 w-52">
                 <li><a href="index.php">Home</a></li>
-                <li><a>About Us</a></li>
+                <li><a href="about.php">About Us</a></li>
                 <li><a>Products and Services</a></li>
                 <li><a href="support.php">Support</a></li>
             </ul>
@@ -41,7 +41,7 @@
 
                 </li>
             </a>
-            <a href="#" class="flex items-center dark:text-white">
+            <a href="about.php" class="flex items-center dark:text-white">
                 <li class="btn btn-ghost flex items-center">
 
                     <img src="images/building-solid.svg" class="dark:hidden h-4 w-4 lg:h-5 lg:w-5 mr-2" id="lightLogo">
