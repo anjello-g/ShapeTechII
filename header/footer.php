@@ -6,7 +6,7 @@
                 </strong>
 
                 <div class="mt-6 flex flex-row p-4">
-                    <input type="text" placeholder="example@email.com" class="dark:bg-gray-700 w-3/5 p-3 rounded-l-lg sm:w-2/3">
+                    <input type="text" placeholder="example@email.com" class="dark:bg-gray-700 w-3/5 p-3 rounded-l-lg sm:w-2/3 focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent">
                     <button type="button" class="dark:bg-green-600 w-2/5 p-3 rounded-r-lg sm:w-1/3 bg-green-400 text-sm font-medium text-white transition hover:bg-gray-900">Subscribe</button>
                 </div>
             </div>
