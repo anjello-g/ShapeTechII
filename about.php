@@ -7,6 +7,17 @@
 <!--hero-->
 <?php include 'sections/about-hero.php'; ?>
 
+<!--mission-vission-->
+<?php include 'sections/mission-vission.php'; ?>
+
+<!--history-->
+<?php include 'sections/history.php'; ?>
+
+<!--team-->
+<?php include 'sections/team.php'; ?>
+
+<!--gallery-->
+<?php include 'sections/gallery.php'; ?>
 
 <!--footer-->
 <?php include 'header/footer.php'; ?>
