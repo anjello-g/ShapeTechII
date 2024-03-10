@@ -76,9 +76,9 @@
 
     <div class="navbar-end md:flex md:items-center">
     <label class="grid place-items-center z-50 relative">
-    <img src="images/bullhorn-solid.svg" class="dark:hidden h-5 w-5  mr-2" id="lightLogo">
+    <img src="images/bullhorn-solid.svg" class="dark:hidden h-5 w-5  mr-4" id="lightLogo">
                     <img src="images/bullhorn-solid-dark.svg"
-                        class="hidden dark:block h-5 w-5 mr-2 dark:text-white" id="darkLogo">
+                        class="hidden dark:block h-5 w-5 mr-4 dark:text-white" id="darkLogo">
     </label>
 </div>
 

@@ -11,11 +11,13 @@
                 </p>
            
             <div class="mt-10 flex flex-col sm:flex-row justify-center md:justify-start">
+            <a href="#contact-form"> 
                 <button class="w-full sm:w-40 px-4 py-3 rounded font-semibold text-md bg-green-500 text-white border-2 border-green-500">Let's Talk</button>
                  </div>
+</a>
         </div>
-        <div class="w-full md:w-1/2 flex justify-center md:justify-end">
-            <img src="https://loremflickr.com/g/600/600/girl">
+        <div class="w-full md:w-1/2 flex justify-center md:justify-end rounded rounded-lg">
+            <img src="https://picsum.photos/600" class="rounded rounded-lg">
         </div>
     </div>
 </div>

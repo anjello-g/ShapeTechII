@@ -15,10 +15,10 @@
                     <span class="line-through text-2xl font-sans text-gray-500/70 dark:text-gray-400">$39</span><span
                         class="text-5xl font-bold tracking-tight text-gray-900 dark:text-gray-100">$29</span>
                 </p>
-                <a href="#standard-package"
+                <a href="support.php#contact-form"
                     aria-describedby="tier-standard"
                     class="text-green-600 ring-1 ring-inset ring-green-200 hover:ring-green-300 mt-6 block rounded-md py-2 px-3 text-center text-base font-medium leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600"
-                    target="_blank">Get Started</a>
+                   >Get Started</a>
                 <ul role="list" class="mt-8 space-y-3 text-sm leading-6 text-gray-600 xl:mt-10">
                     <li class="flex gap-x-3 text-base dark:text-gray-200">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
@@ -54,10 +54,10 @@
                     <span class="line-through text-2xl font-sans text-gray-500/70 dark:text-gray-400">$59</span><span
                         class="text-5xl font-bold tracking-tight text-gray-900 dark:text-gray-100">$39</span>
                 </p>
-                <a href="#extended-package"
+                <a href="support.php#contact-form"
                     aria-describedby="tier-extended"
                     class="bg-green-600 text-white shadow-sm hover:bg-green-500 mt-6 block rounded-md py-2 px-3 text-center text-base font-medium leading-6 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600"
-                    target="_blank">Get Started</a>
+                    >Get Started</a>
                 <ul role="list" class="mt-8 space-y-3 text-sm leading-6 text-gray-600 xl:mt-10">
                     <li class="flex gap-x-3 text-base dark:text-gray-200">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"

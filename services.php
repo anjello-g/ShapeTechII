@@ -7,6 +7,9 @@
 <!--hero-->
 <?php include 'sections/services-hero.php'; ?>
 
+<!--offered-->
+<?php include 'sections/services-offered.php'; ?>
+
 <!--footer-->
 <?php include 'header/footer.php'; ?>
 

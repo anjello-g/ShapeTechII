@@ -37,7 +37,7 @@
 
           <div class="space-y-2">
             <h5 class="text-xl font-semibold dark:text-white text-black transition group-hover:text-secondary">Product Delivery</h5>
-            <p class="dark:text-gray-300 text-gray-700">We will work on your chosen product or service in 15 days (more time required depending on the
+            <p class="dark:text-gray-300 text-gray-700">We will work on your chosen service in 15 days (more time required depending on the
               complexity of the project)</p>
           </div>
         </div>
