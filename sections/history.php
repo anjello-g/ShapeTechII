@@ -1,9 +1,9 @@
-<div class="py-12">
-<div class="mb-4 space-y-4 px-6 md:px-0">
-            <h2 class="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">
-            Our History
-            </h2>
-        </div>
+<div class="py-12" id="history">
+  <div class="mb-4 space-y-4 px-6 md:px-0">
+    <h2 class="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">
+      Our History
+    </h2>
+  </div>
 
   <div class="max-w-xl mx-auto p-8">
     <div class="flow-root text-gray-50">
@@ -14,8 +14,9 @@
             <div class="relative flex items-start space-x-3">
               <div>
                 <div class="relative px-1">
-                  <div class="h-8 w-8 bg-green-500 rounded-full ring-8 dark:ring-gray-400/10 ring-white flex items-center justify-center">
-                  <img src="images/thumbtack-solid.svg" class=" h-4 w-4 lg:h-5 lg:w-5">
+                  <div
+                    class="h-8 w-8 bg-green-500 rounded-full ring-8 dark:ring-gray-400/10 ring-white flex items-center justify-center">
+                    <img src="images/thumbtack-solid.svg" class=" h-4 w-4 lg:h-5 lg:w-5">
                   </div>
                 </div>
               </div>
@@ -53,8 +54,9 @@
             <div class="relative flex items-start space-x-3">
               <div>
                 <div class="relative px-1">
-                  <div class="h-8 w-8 bg-green-500 rounded-full ring-8 dark:ring-gray-400/10 ring-white flex items-center justify-center">
-                  <img src="images/thumbtack-solid.svg" class=" h-4 w-4 lg:h-5 lg:w-5">
+                  <div
+                    class="h-8 w-8 bg-green-500 rounded-full ring-8 dark:ring-gray-400/10 ring-white flex items-center justify-center">
+                    <img src="images/thumbtack-solid.svg" class=" h-4 w-4 lg:h-5 lg:w-5">
                   </div>
                 </div>
               </div>
@@ -93,8 +95,9 @@
             <div class="relative flex items-start space-x-3">
               <div>
                 <div class="relative px-1">
-                  <div class="h-8 w-8 bg-green-500 rounded-full ring-8 dark:ring-gray-400/10 ring-white flex items-center justify-center">
-                  <img src="images/thumbtack-solid.svg" class=" h-4 w-4 lg:h-5 lg:w-5">
+                  <div
+                    class="h-8 w-8 bg-green-500 rounded-full ring-8 dark:ring-gray-400/10 ring-white flex items-center justify-center">
+                    <img src="images/thumbtack-solid.svg" class=" h-4 w-4 lg:h-5 lg:w-5">
                   </div>
                 </div>
               </div>
@@ -126,12 +129,7 @@
             </div>
           </div>
         </li>
-
-
-
-
       </ul>
     </div>
   </div>
-
 </div>

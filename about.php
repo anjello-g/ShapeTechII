@@ -1,26 +1,27 @@
 <?php include 'header/header.php'; ?>
 
-<body >
-<!--nav-->
-<?php  $currentPage = 'index'; include 'header/navigation.php'; ?>
+<body>
+    <!--nav-->
+    <?php  $currentPage = 'about'; include 'header/navigation.php'; ?>
 
-<!--hero-->
-<?php include 'sections/about-hero.php'; ?>
+    <!--hero-->
+    <?php include 'sections/about-hero.php'; ?>
 
-<!--mission-vission-->
-<?php include 'sections/mission-vission.php'; ?>
+    <!--mission-vission-->
+    <?php include 'sections/mission-vission.php'; ?>
 
-<!--history-->
-<?php include 'sections/history.php'; ?>
+    <!--history-->
+    <?php include 'sections/history.php'; ?>
 
-<!--team-->
-<?php include 'sections/team.php'; ?>
+    <!--team-->
+    <?php include 'sections/team.php'; ?>
 
-<!--gallery-->
-<?php include 'sections/gallery.php'; ?>
+    <!--gallery-->
+    <?php include 'sections/gallery.php'; ?>
 
-<!--footer-->
-<?php include 'header/footer.php'; ?>
+    <!--footer-->
+    <?php include 'header/footer.php'; ?>
 
 </body>
+
 </html>

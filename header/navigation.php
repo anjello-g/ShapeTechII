@@ -5,7 +5,7 @@
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24"
                     stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" />
-                    </svg>
+                </svg>
             </div>
             <ul tabindex="0"
                 class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box dark:text-gray-200 dark:bg-gray-800 w-52">
@@ -38,7 +38,6 @@
                     <img src="images/house-solid-dark.svg"
                         class="hidden dark:block h-4 w-4 lg:h-5 lg:w-5 mr-2 dark:text-white" id="darkLogo">
                     <span class="text-xs lg:text-sm">Home</span>
-
                 </li>
             </a>
             <a href="about.php" class="flex items-center dark:text-white">
@@ -48,7 +47,6 @@
                     <img src="images/building-solid-dark.svg"
                         class="hidden dark:block h-4 w-4 lg:h-5 lg:w-5 mr-2 dark:text-white" id="darkLogo">
                     <span class="text-xs lg:text-sm">About Us</span>
-
                 </li>
             </a>
             <a href="services.php" class="flex items-center dark:text-white">
@@ -58,7 +56,6 @@
                     <img src="images/gears-solid-dark.svg"
                         class="hidden dark:block h-4 w-4 lg:h-5 lg:w-5 mr-2 dark:text-white" id="darkLogo">
                     <span class="text-xs lg:text-sm">Services</span>
-
                 </li>
             </a>
             <a href="support.php" class="flex items-center dark:text-white">
@@ -68,20 +65,17 @@
                     <img src="images/life-ring-solid-dark.svg"
                         class="hidden dark:block h-4 w-4 lg:h-5 lg:w-5 mr-2 dark:text-white" id="darkLogo">
                     <span class="text-xs lg:text-sm">Support</span>
-
                 </li>
             </a>
         </ul>
     </div>
 
     <div class="navbar-end md:flex md:items-center">
-    <label class="grid place-items-center z-50 relative">
-    <img src="images/bullhorn-solid.svg" class="dark:hidden h-5 w-5  mr-4" id="lightLogo">
-                    <img src="images/bullhorn-solid-dark.svg"
-                        class="hidden dark:block h-5 w-5 mr-4 dark:text-white" id="darkLogo">
-    </label>
-</div>
+        <label class="grid place-items-center z-50 relative">
+            <img src="images/bullhorn-solid.svg" class="dark:hidden h-5 w-5  mr-4" id="lightLogo">
+            <img src="images/bullhorn-solid-dark.svg" class="hidden dark:block h-5 w-5 mr-4 dark:text-white"
+                id="darkLogo">
+        </label>
+    </div>
 
 </div>
-
-

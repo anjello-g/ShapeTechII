@@ -1,17 +1,15 @@
-<div class="w-full max-w-7xl p-4 mx-auto">
-<div class="mb-10 space-y-4 px-6 md:px-0">
-            <h2 class="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">
+<div class="w-full max-w-7xl p-4 mx-auto" id="services">
+    <div class="mb-10 space-y-4 px-6 md:px-0">
+        <h2 class="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">
             Services We Offers
-            </h2>
-        </div>
+        </h2>
+    </div>
     <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-
 
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30"
-                    alt="Product Image">
+                <img class="w-full" src="images/serv1.avif" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -63,9 +61,9 @@
                 <div class="flex items-center justify-between">
                     <span class="font-bold text-lg">₱1000.00</span>
                     <a href="support.php#contact-form">
-                    <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
-                        Inquire Now
-                    </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+                            Inquire Now
+                        </button>
                     </a>
                 </div>
             </div>
@@ -75,8 +73,7 @@
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
 
             <div class="relative">
-                <img class="w-full" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30"
-                    alt="Product Image">
+                <img class="w-full" src="images/serv2.jpg" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -129,9 +126,9 @@
                 <div class="flex items-center justify-between">
                     <span class="font-bold text-lg">₱1000.00</span>
                     <a href="support.php#contact-form">
-                    <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
-                        Inquire Now
-                    </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+                            Inquire Now
+                        </button>
                     </a>
                 </div>
             </div>
@@ -140,8 +137,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30"
-                    alt="Product Image">
+                <img class="w-full" src="images/serv9.avif" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -193,9 +189,9 @@
                 <div class="flex items-center justify-between">
                     <span class="font-bold text-lg">₱1000.00</span>
                     <a href="support.php#contact-form">
-                    <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
-                        Inquire Now
-                    </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+                            Inquire Now
+                        </button>
                     </a>
                 </div>
             </div>
@@ -205,8 +201,7 @@
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
 
             <div class="relative">
-                <img class="w-full" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30"
-                    alt="Product Image">
+                <img class="w-full" src="images/serv5.avif" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -258,9 +253,9 @@
                 <div class="flex items-center justify-between">
                     <span class="font-bold text-lg">₱1000.00</span>
                     <a href="support.php#contact-form">
-                    <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
-                        Inquire Now
-                    </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+                            Inquire Now
+                        </button>
                     </a>
                 </div>
             </div>
@@ -269,8 +264,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30"
-                    alt="Product Image">
+                <img class="w-full" src="images/serv5.avif" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -322,9 +316,9 @@
                 <div class="flex items-center justify-between">
                     <span class="font-bold text-lg">₱1000.00</span>
                     <a href="support.php#contact-form">
-                    <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
-                        Inquire Now
-                    </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+                            Inquire Now
+                        </button>
                     </a>
                 </div>
             </div>
@@ -333,8 +327,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30"
-                    alt="Product Image">
+                <img class="w-full" src="images/serv6.jpg" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -386,9 +379,9 @@
                 <div class="flex items-center justify-between">
                     <span class="font-bold text-lg">₱1000.00</span>
                     <a href="support.php#contact-form">
-                    <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
-                        Inquire Now
-                    </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+                            Inquire Now
+                        </button>
                     </a>
                 </div>
             </div>
@@ -397,8 +390,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30"
-                    alt="Product Image">
+                <img class="w-full" src="images/serv7.jpg" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -450,9 +442,9 @@
                 <div class="flex items-center justify-between">
                     <span class="font-bold text-lg">₱1000.00</span>
                     <a href="support.php#contact-form">
-                    <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
-                        Inquire Now
-                    </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+                            Inquire Now
+                        </button>
                     </a>
                 </div>
             </div>
@@ -461,8 +453,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30"
-                    alt="Product Image">
+                <img class="w-full" src="images/serv3.avif" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -514,9 +505,9 @@
                 <div class="flex items-center justify-between">
                     <span class="font-bold text-lg">₱1000.00</span>
                     <a href="support.php#contact-form">
-                    <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
-                        Inquire Now
-                    </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+                            Inquire Now
+                        </button>
                     </a>
                     </a>
                 </div>

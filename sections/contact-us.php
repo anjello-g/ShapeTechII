@@ -1,13 +1,16 @@
 <section class="mb-12 mt-16 ">
 
-<div class="mb-10 space-y-4 px-6 md:px-0">
-            <h2 class="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">
-            Get in touch
-            </h2>
-        </div>
+  <div class="mb-10 space-y-4 px-6 md:px-0">
+    <h2 class="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">
+      Get in touch
+    </h2>
+  </div>
 
   <div id="map" class="relative h-[300px] overflow-hidden bg-cover bg-[50%] bg-no-repeat">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3871.2110697868443!2d121.16368317492265!3d14.005495391369685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd6d7a774d1a0d%3A0xa5ce342fae4bc033!2sShapeTech%20IT%20Services!5e0!3m2!1sen!2sph!4v1709949746443!5m2!1sen!2sph" width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3871.2110697868443!2d121.16368317492265!3d14.005495391369685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd6d7a774d1a0d%3A0xa5ce342fae4bc033!2sShapeTech%20IT%20Services!5e0!3m2!1sen!2sph!4v1709949746443!5m2!1sen!2sph"
+      width="100%" height="320" style="border:0;" allowfullscreen="" loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
   <div class="container px-6 md:px-12 dark:text-white mx-auto">
     <div
@@ -15,31 +18,37 @@
       <div class="flex flex-wrap">
         <div class="mb-12 w-full shrink-0 grow-0 basis-auto md:px-3 lg:mb-0 lg:w-5/12 lg:px-6">
           <form class="form">
-          <div class="mb-4">
-                <label for="name" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Name</label>
-                <input type="text" id="name" name="name" class="dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-400 p-2 rounded-lg w-full focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent" placeholder="Name" required>
+            <div class="mb-4">
+              <label for="name" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Name</label>
+              <input type="text" id="name" name="name"
+                class="dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-400 p-2 rounded-lg w-full focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent"
+                placeholder="Name" required>
             </div>
             <div class="mb-4">
-                <label for="email" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Email</label>
-                <input type="email" id="email" name="email" class="dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-400 p-2 rounded-lg w-full focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent" placeholder="example@email.com" required>
+              <label for="email" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Email</label>
+              <input type="email" id="email" name="email"
+                class="dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-400 p-2 rounded-lg w-full focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent"
+                placeholder="example@email.com" required>
             </div>
             <div class="mb-4">
-                <label for="message" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Message</label>
-                <textarea id="message" name="message" class="dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-400 p-2 rounded-lg w-full h-32 resize-none focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent" placeholder="Your message" required></textarea>
+              <label for="message" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Message</label>
+              <textarea id="message" name="message"
+                class="dark:bg-gray-800 border-2 border-gray-300 dark:border-gray-400 p-2 rounded-lg w-full h-32 resize-none focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent"
+                placeholder="Your message" required></textarea>
             </div>
-            <button type="submit" class="bg-green-500 text-white p-2 rounded-lg font-semibold w-full hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 focus:ring-offset-gray-100">Send</button>
-        
-</form>
+            <button type="submit"
+              class="bg-green-500 text-white p-2 rounded-lg font-semibold w-full hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 focus:ring-offset-gray-100">Send</button>
+          </form>
         </div>
-      
+
         <div class="w-full shrink-0 grow-0 basis-auto lg:w-7/12 mt-4">
           <div class="flex flex-wrap">
             <div class="mb-12 w-full shrink-0 grow-0 basis-auto md:w-6/12 md:px-3 lg:w-full lg:px-6 xl:w-6/12">
               <div class="flex items-start">
                 <div class="shrink-0">
                   <div class="inline-block rounded-md bg-green-200 dark:bg-green-400 p-4 text-black">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                      stroke="currentColor" class="h-6 w-6">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+                      class="h-6 w-6">
                       <path stroke-linecap="round" stroke-linejoin="round"
                         d="M14.25 9.75v-4.5m0 4.5h4.5m-4.5 0l6-6m-3 18c-8.284 0-15-6.716-15-15V4.5A2.25 2.25 0 014.5 2.25h1.372c.516 0 .966.351 1.091.852l1.106 4.423c.11.44-.054.902-.417 1.173l-1.293.97a1.062 1.062 0 00-.38 1.21 12.035 12.035 0 007.143 7.143c.441.162.928-.004 1.21-.38l.97-1.293a1.125 1.125 0 011.173-.417l4.423 1.106c.5.125.852.575.852 1.091V19.5a2.25 2.25 0 01-2.25 2.25h-2.25z" />
                     </svg>
@@ -53,7 +62,7 @@
                     shapetechsolutions@gmail.com
                   </p>
                   <p class="text-sm text-neutral-500">
-                   <!-- 1-600-890-4567 -->
+                    <!-- 1-600-890-4567 -->
                   </p>
                 </div>
               </div>
@@ -62,8 +71,8 @@
               <div class="flex items-start">
                 <div class="srink-0">
                   <div class="inline-block rounded-md bg-green-200 dark:bg-green-400 p-4 text-black">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                      stroke="currentColor" class="w-7 h-7">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+                      class="w-7 h-7">
                       <path stroke-linecap="round" stroke-linejoin="round"
                         d="M15 9h3.75M15 12h3.75M15 15h3.75M4.5 19.5h15a2.25 2.25 0 002.25-2.25V6.75A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25v10.5A2.25 2.25 0 004.5 19.5zm6-10.125a1.875 1.875 0 11-3.75 0 1.875 1.875 0 013.75 0zm1.294 6.336a6.721 6.721 0 01-3.17.789 6.721 6.721 0 01-3.168-.789 3.376 3.376 0 016.338 0z" />
                     </svg>
@@ -74,7 +83,7 @@
                     Address
                   </p>
                   <p class="text-sm text-neutral-500 dark:text-gray-200">
-                  232 Zone 3 Bugtong na Pulo, <br /> Lipa City, Batangas
+                    232 Zone 3 Bugtong na Pulo, <br /> Lipa City, Batangas
                   </p>
                 </div>
               </div>
@@ -106,8 +115,8 @@
               <div class="align-start flex">
                 <div class="shrink-0">
                   <div class="inline-block rounded-md bg-green-200 dark:bg-green-400 p-4 text-black">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
-                      stroke="currentColor" class="w-6 h-6">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+                      class="w-6 h-6">
                       <path stroke-linecap="round" stroke-linejoin="round"
                         d="M10.5 1.5H8.25A2.25 2.25 0 006 3.75v16.5a2.25 2.25 0 002.25 2.25h7.5A2.25 2.25 0 0018 20.25V3.75a2.25 2.25 0 00-2.25-2.25H13.5m-3 0V3h3V1.5m-3 0h3m-3 18.75h3" />
                     </svg>

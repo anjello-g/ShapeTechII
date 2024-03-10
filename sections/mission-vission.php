@@ -12,7 +12,9 @@
                 </div>
                 <div class="mt-5">
                     <h3 class="text-lg font-medium text-gray-900 dark:text-gray-200">Mission</h3>
-                    <p class="mt-2 text-base text-gray-500 dark:text-gray-200">We are committed to SHARE the future by providing cost-effective software and hardware technology solutions through innovation and limitless opportunities that will elevate and ensure on client’s success.</p>
+                    <p class="mt-2 text-base text-gray-500 dark:text-gray-200">We are committed to SHARE the future by
+                        providing cost-effective software and hardware technology solutions through innovation and
+                        limitless opportunities that will elevate and ensure on client’s success.</p>
                 </div>
             </div>
             <div>
@@ -27,13 +29,13 @@
                 <div class="mt-5">
                     <h3 class="text-lg font-medium text-gray-900 dark:text-gray-200">Values</h3>
                     <p class="mt-2 text-base text-gray-500 dark:text-gray-200">
-                    Our values shape who we are and how we work:
-                    <br>
-                    Innovation: We embrace creativity and stay on the cutting edge.
-                    <br>
-                    Collaboration: Teamwork, respect, and open communication drive our success.
-                    <br>
-                    Customer Focus: We put our clients at the center for mutual success.
+                        Our values shape who we are and how we work:
+                        <br>
+                        Innovation: We embrace creativity and stay on the cutting edge.
+                        <br>
+                        Collaboration: Teamwork, respect, and open communication drive our success.
+                        <br>
+                        Customer Focus: We put our clients at the center for mutual success.
                     </p>
                 </div>
             </div>
@@ -49,7 +51,9 @@
                 </div>
                 <div class="mt-5">
                     <h3 class="text-lg font-medium text-gray-900 dark:text-gray-200">Vision</h3>
-                    <p class="mt-2 text-base text-gray-500 dark:text-gray-200">SHAPETECH I.T. Services utilizes technology as a bridge, effectively crossing the divide between client demands and unparalleled customer satisfaction.</p>
+                    <p class="mt-2 text-base text-gray-500 dark:text-gray-200">SHAPETECH I.T. Services utilizes
+                        technology as a bridge, effectively crossing the divide between client demands and unparalleled
+                        customer satisfaction.</p>
                 </div>
             </div>
         </div>
