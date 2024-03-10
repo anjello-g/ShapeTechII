@@ -1,4 +1,4 @@
-<section class="dark:bg-gray-800/10 bg-gray-50 pt-4 pb-8">
+<section class="dark:bg-gray-800/10 bg-white pt-4 pb-8">
     <div class="max-w-5xl mx-auto px-8 sm:px-8 lg:px-8">
         <div class="mt-12 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
             <div>
