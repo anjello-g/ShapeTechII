@@ -1,4 +1,4 @@
-<section class="flex items-center justify-center pb-10 pt-8 dark:bg-gray-850 dark:text-white">
+<section class="flex items-center justify-center pb-10 pt-8 dark:bg-gray-900 dark:text-white">
     <div class="p-4 sm:px-10 flex flex-col justify-center items-center text-base h-100vh mx-auto" id="pricing">
         <div class="mb-10 space-y-4 px-6 md:px-0">
             <h2 class="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">

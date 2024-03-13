@@ -1,15 +1,18 @@
-<div class="bg-white dark:bg-gray-900/50 dark:text-white">
-  <div class="mx-auto pt-16  sm:px-6 lg:px-8">
+<div class="relative bg-white dark:bg-gray-900 overflow-hidden">
+
+  <div id="particles-js" class="absolute inset-0 z-0"></div>
+  <div class="mx-auto pt-16 sm:px-6 lg:px-8 relative z-10">
     <div class="relative isolate overflow-hidden px-6 py-24 text-center sm:rounded-3xl sm:px-16 mt-5">
       <h2 id="typewriter"
-        class="font-nudge-extrabold mx-auto max-w-2xl text-3xl font-bold uppercase tracking-wide sm:text-4xl"> </h2>
+        class="font-nudge-extrabold text-gray-600 dark:text-gray-100 mx-auto max-w-2xl text-3xl font-bold uppercase tracking-wide sm:text-4xl">
+      </h2>
       <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600 dark:text-gray-400">It's more than just tech. It's
         a partnership for innovation. Start yours today.</p>
 
       <div class="mt-10 flex items-center justify-center gap-x-6">
-        <a href="support.php#contact-form">
+        <a href="support.php#contact-form" class="relative z-10">
           <button type="button"
-            class="text-md relative inline-flex items-center gap-x-2 rounded-lg bg-green-500 px-6 py-4 font-semibold text-white shadow-sm hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-600">
+            class="text-md inline-flex items-center gap-x-2 rounded-lg bg-green-500 px-6 py-4 font-semibold text-white shadow-sm hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-600">
             Inquire Now
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"
               class="-mr-0.5 h-5 w-5">
@@ -20,7 +23,6 @@
           </button>
         </a>
       </div>
-
 
       <h1 class="font-bold italic text-green-500 mt-16 text-2xl">Join on our growing ecosystem</h1>
 

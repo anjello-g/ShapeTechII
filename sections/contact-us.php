@@ -17,7 +17,7 @@
       class="block rounded-lg bg-[hsla(0,0%,100%,0.8)] px-6 py-12 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]  md:py-16 md:px-12 -mt-[100px] backdrop-blur-[30px] border border-gray-300 dark:border-gray-600 dark:bg-gray-800 ">
       <div class="flex flex-wrap">
         <div class="mb-12 w-full shrink-0 grow-0 basis-auto md:px-3 lg:mb-0 lg:w-5/12 lg:px-6">
-          <form class="form">
+          <form action="sections/send_mail.php" method="POST" class="form">
             <div class="mb-4">
               <label for="name" class="block text-sm font-medium text-gray-700 dark:text-gray-300">Name</label>
               <input type="text" id="name" name="name"
@@ -134,4 +134,8 @@
       </div>
     </div>
   </div>
+
+  <div id="loading-overlay" class="fixed top-0 left-0 w-full h-full bg-gray-900 bg-opacity-50 flex justify-center items-center z-50 hidden">
+        <div class="animate-spin rounded-full h-20 w-20 border-t-2 border-b-2 border-gray-100"></div>
+    </div>
 </section>

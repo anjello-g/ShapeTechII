@@ -1,7 +1,7 @@
 <div class="w-full max-w-7xl p-4 mx-auto" id="services">
     <div class="mb-10 space-y-4 px-6 md:px-0">
         <h2 class="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl">
-            Services We Offers
+            Services We Offer
         </h2>
     </div>
     <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -59,7 +59,7 @@
                     </ul>
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="font-bold text-lg">₱1000.00</span>
+                    <span class="font-bold text-lg"></span>
                     <a href="support.php#contact-form">
                         <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
                             Inquire Now
@@ -124,7 +124,7 @@
                     </ul>
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="font-bold text-lg">₱1000.00</span>
+                    <span class="font-bold text-lg"></span>
                     <a href="support.php#contact-form">
                         <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
                             Inquire Now
@@ -187,7 +187,7 @@
                     </ul>
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="font-bold text-lg">₱1000.00</span>
+                    <span class="font-bold text-lg"></span>
                     <a href="support.php#contact-form">
                         <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
                             Inquire Now
@@ -251,7 +251,7 @@
                     </ul>
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="font-bold text-lg">₱1000.00</span>
+                    <span class="font-bold text-lg"></span>
                     <a href="support.php#contact-form">
                         <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
                             Inquire Now
@@ -314,7 +314,7 @@
                     </ul>
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="font-bold text-lg">₱1000.00</span>
+                    <span class="font-bold text-lg"></span>
                     <a href="support.php#contact-form">
                         <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
                             Inquire Now
@@ -377,7 +377,7 @@
                     </ul>
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="font-bold text-lg">₱1000.00</span>
+                    <span class="font-bold text-lg"></span>
                     <a href="support.php#contact-form">
                         <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
                             Inquire Now
@@ -440,7 +440,7 @@
                     </ul>
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="font-bold text-lg">₱1000.00</span>
+                    <span class="font-bold text-lg"></span>
                     <a href="support.php#contact-form">
                         <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
                             Inquire Now
@@ -503,7 +503,7 @@
                     </ul>
                 </p>
                 <div class="flex items-center justify-between">
-                    <span class="font-bold text-lg">₱1000.00</span>
+                    <span class="font-bold text-lg"></span>
                     <a href="support.php#contact-form">
                         <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
                             Inquire Now

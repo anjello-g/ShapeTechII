@@ -1,5 +1,5 @@
 <div class="navbar bg-base-100 dark:bg-gray-900">
-    <div class="navbar-start md:hidden">
+    <div class="navbar-start md:hidden z-50">
         <div class="dropdown md:hidden">
             <div tabindex="0" role="button" class="btn btn-ghost btn-circle dark:text-gray-200">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24"

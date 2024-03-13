@@ -1,6 +1,6 @@
 <?php include 'header/header.php'; ?>
 
-<body>
+<body class="bg-white dark:bg-gray-900">
     <!--nav-->
     <?php  $currentPage = 'about'; include 'header/navigation.php'; ?>
 
