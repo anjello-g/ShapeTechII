@@ -9,7 +9,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="images/digital_mark.jpeg" alt="Product Image">
+                <img class="w-full" src="images/s1.png" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -73,7 +73,7 @@
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
 
             <div class="relative">
-                <img class="w-full" src="images/serv2.jpg" alt="Product Image">
+                <img class="w-full" src="images/s2.png" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -137,7 +137,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="images/serv5.avif" alt="Product Image">
+                <img class="w-full" src="images/s3.png" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -201,7 +201,7 @@
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
 
             <div class="relative">
-                <img class="w-full" src="images/db_management.avif" alt="Product Image">
+                <img class="w-full" src="images/s4.png" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -264,7 +264,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="images/serv9.avif" alt="Product Image">
+                <img class="w-full" src="images/s5.png" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -327,7 +327,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="images/network.avif" alt="Product Image">
+                <img class="w-full" src="images/s6.png" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -390,7 +390,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="images/serv7.jpg" alt="Product Image">
+                <img class="w-full" src="images/s7.png" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
@@ -453,7 +453,7 @@
         <div
             class="dark:bg-gray-800 dark:text-white bg-white rounded-lg overflow-hidden shadow-lg ring-4 ring-green-500 ring-opacity-40 max-w-sm mb-4 mx-auto my-auto">
             <div class="relative">
-                <img class="w-full" src="images/software.webp" alt="Product Image">
+                <img class="w-full" src="images/s8.png" alt="Product Image">
                 <div class="absolute top-0 right-0 bg-red-500 text-white px-2 py-1 m-2 rounded-md text-sm font-medium">
                     SALE
                 </div>
