@@ -97,6 +97,13 @@
                                 Software Services
                             </a>
                         </li>
+
+                        <li>
+                            <a class="text-gray-700 transition hover:text-gray-700/75 dark:hover:text-green-400 dark:text-gray-300"
+                                href="services.php#services">
+                                ERP Solutions
+                            </a>
+                        </li>
                     </ul>
                 </div>
 
