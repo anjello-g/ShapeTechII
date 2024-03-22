@@ -518,7 +518,7 @@
     </div>
 
     <br />
-    <div class="mb-10 space-y-4 px-6 md:px-0">
+    <div class="mb-10 space-y-4 px-6 md:px-0" id="erp">
         <h2 class="text-center text-2xl font-bold text-gray-800 dark:text-white md:text-4xl mt-8">
             ERP Solutions
         </h2>
